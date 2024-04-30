@@ -8,7 +8,16 @@
   </p>
    <p><em>High-quality datasets, tools, and concepts for LLM fine-tuning.</em></p>
 </div>
-<br/>
+
+## Dataset qicklinks
+
+* [[#General-purpose (sorted by size from largest to smallest )]]
+* [[#Math & Logic]]
+* [[#Code]]
+* [[#Conversation & Role-Play]]
+* [[#Agent & Function calling]]
+* [[#⚖️ Preference alignment]]
+* [[#🔧 Tools]]
 
 ## 👍 What is a good dataset?
 
