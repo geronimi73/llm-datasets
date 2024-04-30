@@ -121,6 +121,9 @@ Function calling allows large language models (LLMs) to execute predefined funct
 
 W.I.P.
 
+## Pretraining
+wip
+
 ## 🔧 Tools
 
 To create a high-quality dataset, focus on carefully curating a diverse set of relevant, accurate and informative examples rather than simply maximizing dataset size.
