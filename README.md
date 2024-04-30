@@ -11,6 +11,10 @@
 
 ## Dataset qicklinks
 
+[test](#math--logic)
+
+https://github.com/geronimi73/llm-datasets/edit/add2/README.md#-open-sft-datasets
+
 * [[#General-purpose (sorted by size from largest to smallest )]]
 * [[#Math & Logic]]
 * [[#Code]]
@@ -20,6 +24,8 @@
 * [[#🔧 Tools]]
 
 ## 👍 What is a good dataset?
+
+# Test
 
 Data is the most valuable asset in LLM development. While datasets can't be directly evaluated like models, high-quality datasets have the following characteristics:
 
