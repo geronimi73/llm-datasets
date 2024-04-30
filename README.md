@@ -9,19 +9,15 @@
    <p><em>High-quality datasets, tools, and concepts for LLM fine-tuning.</em></p>
 </div>
 
-## Dataset qicklinks
+## Qicklinks
 
-[test](#math--logic)
-
-https://github.com/geronimi73/llm-datasets/edit/add2/README.md#-open-sft-datasets
-
-* [[#General-purpose (sorted by size from largest to smallest )]]
-* [[#Math & Logic]]
-* [[#Code]]
-* [[#Conversation & Role-Play]]
-* [[#Agent & Function calling]]
-* [[#⚖️ Preference alignment]]
-* [[#🔧 Tools]]
+[General-purpose](#general-purpose-sorted-by-size-from-largest-to-smallest-)
+[Math & Logic](#math--logic)
+[Code](#code)
+[Conversation & Role-Play](#conversation--role-play)
+[Agent & Function calling](#agent--function-calling)
+[Preference alignment](#%EF%B8%8F-preference-alignment)
+[Tools](#-tools)
 
 ## 👍 What is a good dataset?
 
