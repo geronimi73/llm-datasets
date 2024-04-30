@@ -11,17 +11,21 @@
 
 ## Qicklinks
 
-[General-purpose](#general-purpose-sorted-by-size-from-largest-to-smallest-)
-[Math & Logic](#math--logic)
-[Code](#code)
-[Conversation & Role-Play](#conversation--role-play)
-[Agent & Function calling](#agent--function-calling)
-[Preference alignment](#%EF%B8%8F-preference-alignment)
-[Tools](#-tools)
+* [General-purpose](#general-purpose-sorted-by-size-from-largest-to-smallest-)
+
+* [Math & Logic](#math--logic)
+
+* [Code](#code)
+
+* [Conversation & Role-Play](#conversation--role-play)
+
+* [Agent & Function calling](#agent--function-calling)
+
+* [Preference alignment](#%EF%B8%8F-preference-alignment)
+
+* [Tools](#-tools)
 
 ## 👍 What is a good dataset?
-
-# Test
 
 Data is the most valuable asset in LLM development. While datasets can't be directly evaluated like models, high-quality datasets have the following characteristics:
 
