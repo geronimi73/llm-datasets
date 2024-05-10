@@ -46,6 +46,7 @@ The goal of general-purpose datasets is to transform base models into versatile 
 
 | Dataset                                                                                                       | #     | Authors                      | Date     | Notes                                                                                                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| https://huggingface.co/datasets/H-D-T/Buzz                                                                    |       |                              |          |                                                                                                                                                                                                         |
 | https://huggingface.co/datasets/allenai/WildChat-1M                                                           |       |                              |          |                                                                                                                                                                                                         |
 | https://huggingface.co/datasets/nvidia/ChatQA-Training-Data                                                   |       |                              |          |                                                                                                                                                                                                         |
 | https://huggingface.co/datasets/mlabonne/WildGPT-4                                                            |       |                              |          |                                                                                                                                                                                                         |
@@ -120,11 +121,15 @@ Many datasets focus on pairs of instructions and outputs, but chat models are of
 
 Function calling allows large language models (LLMs) to execute predefined functions with parameters inferred from user prompts, rather than generating standard text responses. This enables LLMs to seamlessly integrate with external systems, perform complex operations, and provide more accurate and contextually relevant responses.
 
-| Dataset                                                                                           | #     | Authors         | Date     | Notes                                                                               |
-| ------------------------------------------------------------------------------------------------- | ----- | --------------- | -------- | ----------------------------------------------------------------------------------- |
+| Dataset                                                                                           | #     | Authors         | Date     | Notes                                                                                                                                                                                                                                         |
+| ------------------------------------------------------------------------------------------------- | ----- | --------------- | -------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [glaive-function-calling-v2](https://huggingface.co/datasets/glaiveai/glaive-function-calling-v2) | 113k  | Sahil Chaudhary | Sep 2023 | High-quality dataset with pairs of instructions and answers in different languages. <br>See [Locutusque/function-calling-chatml](https://huggingface.co/datasets/Locutusque/function-calling-chatml) for a variant without conversation tags. |
-| [Agent-FLAN](https://huggingface.co/datasets/internlm/Agent-FLAN)                                 | 34.4k | internlm        | Mar 2024 | Mix of AgentInstruct, ToolBench, and ShareGPT datasets.                             |
+| [Agent-FLAN](https://huggingface.co/datasets/internlm/Agent-FLAN)                                 | 34.4k | internlm        | Mar 2024 | Mix of AgentInstruct, ToolBench, and ShareGPT datasets.                                                                                                                                                                                       |
 
+### Other
+
+| https://huggingface.co/datasets/EleutherAI/lichess-puzzles<br> |     |     |     |     |
+| -------------------------------------------------------------- | --- | --- | --- | --- |
 ## ⚖️ Preference alignment
 
 W.I.P.
